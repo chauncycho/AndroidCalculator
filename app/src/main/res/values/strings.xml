@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="text_help"></string>
+
+    <string-array name="radix">
+        <item>二进制</item>
+        <item>十进制</item>
+        <item>十六进制</item>
+    </string-array>
+
+    <string-array name="length">
+        <item>千米</item>
+        <item>米</item>
+        <item>厘米</item>
+        <item>毫米</item>
+        <item>微米</item>
+    </string-array>
+
+    <string-array name="volume">
+        <item>公顷</item>
+        <item>平方千米</item>
+        <item>平方</item>
+        <item>平方毫米</item>
+        <item>平方微米</item>
+    </string-array>
+
+</resources>
